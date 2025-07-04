@@ -20,7 +20,7 @@
 3. Установите зависимости:
 
    ```bash
-   pip install fastapi uvicorn keybert sentence-transformers nltk
+   pip install -r requirements.txt
    ```
 4. Запустите сервис:
 
