@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <URL>
-   cd <папка_проекта>
+   git clone git@github.com:asnbkk/sanction_names.git
+   cd sanction_names
    ```
 2. Создайте и активируйте виртуальное окружение:
 
@@ -73,5 +73,3 @@ curl -X POST http://localhost:8000/extract \
    ```bash
    docker run -d -p 8000:8000 stem-service
    ```
-
----
